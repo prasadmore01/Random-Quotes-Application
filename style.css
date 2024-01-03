@@ -13,7 +13,7 @@
     font-size: 50px;
     margin-top: 10px;
     color: black;
-    text-decoration: underline orangered;
+    text-decoration: underline rgb(228, 3, 228);
 } 
 
 
@@ -23,7 +23,7 @@ button{
     width: 100%;
     bottom: 0px;
     font-size: 30px;
-    background-color: orangered;
+    background-color: rgb(170, 3, 170);
     font-weight: 600;
     color: white;
     border: 3px solid black;
@@ -31,7 +31,7 @@ button{
 }
 
 button:hover{
-    background-color: rgb(177, 51, 5);
+    background-color: purple;
     cursor: pointer;
 }
 
